@@ -1,0 +1,1 @@
+9/15/2018 11:15:55 AM	SQL	DBLayer		FetchFromSP2(WB_GetAllLocations,ParameterName: @Id, ParameterValue: 0;)	Could not find stored procedure 'WB_WriteError'.

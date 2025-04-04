@@ -1,0 +1,11 @@
+9/8/2018 2:08:58 PM	General	Mobile		SignInAccount()	Cannot open database "db_media_track" requested by the login. The login failed.
+Login failed for user 'sa'.
+9/8/2018 2:09:27 PM	General	Mobile		SignInAccount()	Cannot open database "db_media_track" requested by the login. The login failed.
+Login failed for user 'sa'.
+9/8/2018 2:14:37 PM	General	Mobile		SignInAccount()	Cannot open database "db_media_track" requested by the login. The login failed.
+Login failed for user 'sa'.
+9/8/2018 2:16:22 PM	SQL	DBLayer		FetchFromSP2(SP_SignInAccount,ParameterName: @UserId, ParameterValue: noman;ParameterName: @Password, ParameterValue: 218819e5fcd0ad9ffbd241d0aa6389b7;ParameterName: @DeviceId, ParameterValue: abc123;)	Could not find stored procedure 'WB_WriteError'.
+9/8/2018 2:23:24 PM	General	Mobile		SignInAccount()	Could not find stored procedure 'WB_WriteError'.
+9/8/2018 2:25:42 PM	General	Mobile		SignInAccount()	Could not find stored procedure 'WB_WriteError'.
+9/8/2018 2:25:49 PM	General	Mobile		SignInAccount()	Could not find stored procedure 'WB_WriteError'.
+9/8/2018 2:28:09 PM	General	Mobile		SignInAccount()	Could not find stored procedure 'WB_WriteError'.

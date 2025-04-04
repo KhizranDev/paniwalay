@@ -1,0 +1,656 @@
+D:\Work\Web\Asp\MDC\CommonFunctions\bin\Debug\BailsSoft.Common.dll
+D:\Work\Web\Asp\MDC\CommonFunctions\bin\Debug\BailsSoft.Common.pdb
+D:\Work\Web\Asp\MDC\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\MDC\CommonFunctions\obj\Debug\BailsSoft.Common.dll
+D:\Work\Web\Asp\MDC\CommonFunctions\obj\Debug\BailsSoft.Common.pdb
+D:\Software House\Web Projects\MDC\MDC\CommonFunctions\bin\Debug\BailsSoft.Common.dll
+D:\Software House\Web Projects\MDC\MDC\CommonFunctions\bin\Debug\BailsSoft.Common.pdb
+D:\Software House\Web Projects\MDC\MDC\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\MDC\MDC\CommonFunctions\obj\Debug\BailsSoft.Common.dll
+D:\Software House\Web Projects\MDC\MDC\CommonFunctions\obj\Debug\BailsSoft.Common.pdb
+D:\Work\Website\oShop\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Work\Website\oShop\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Work\Website\oShop\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Work\Website\oShop\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Working Folder\Web Project\oShopWeb\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Working Folder\Web Project\oShopWeb\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Working Folder\Web Project\oShopWeb\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Working Folder\Web Project\oShopWeb\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Working Folder\Web Project\oShopWeb\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Software House\Web Projects\OShope\tag\Web\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\OShope\tag\Web\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\OShope\tag\Web\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\OShope\tag\Web\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\OShope\tag\Web\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\oShop\Web\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\oShop\Web\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\oShop\Web\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\oShop\Web\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\oShop\Web\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\urmkt\Web\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\urmkt\Web\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\urmkt\Web\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\urmkt\Web\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\urmkt\Web\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\Web\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\Web\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\Web\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Urmkt\Web\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\Web\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Urmkt\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+C:\Users\VZ03\Desktop\Jules\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+C:\Users\VZ03\Desktop\Jules\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+C:\Users\VZ03\Desktop\Jules\jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VZ03\Desktop\Jules\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+C:\Users\VZ03\Desktop\Jules\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Temp\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Temp\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Temp\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Temp\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Jules\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\working folder\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\working folder\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\working folder\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\working folder\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\20150912\BACKUP JULES 3\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\20150912\BACKUP JULES 3\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\20150912\BACKUP JULES 3\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\20150912\BACKUP JULES 3\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+C:\Users\BS03\Desktop\20151031\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+C:\Users\BS03\Desktop\20151031\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+C:\Users\BS03\Desktop\20151031\Jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BS03\Desktop\20151031\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+C:\Users\BS03\Desktop\20151031\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Working Folder\20151114\Jules\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Working Folder\20151114\Jules\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\20151114\Jules\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Working Folder\20151114\Jules\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160130\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160130\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160130\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160130\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160130\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160131\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160131\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160131\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160131\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160131\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160207\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160207\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160207\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160207\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160207\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160226\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160226\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160226\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160226\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160226\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160227\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160227\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160227\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160227\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160227\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160305\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160305\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160305\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160305\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160305\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160319\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160319\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160319\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160319\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160319\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\Temp\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\jules\Temp\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\Temp\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\jules\Temp\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\jules\Temp\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\20160528\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\jules\20160528\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\20160528\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\jules\20160528\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\jules\20160528\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Jules\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Jules\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160730\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160730\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160730\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160730\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160730\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\20160923\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\20160923\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\20160923\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\20160923\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\20160923\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161116\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161116\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Noman\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Noman\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Noman\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Noman\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161125\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161125\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161125\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\20161125\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161125\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Web Projects\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Web Projects\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Web Projects\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Web Projects\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\RM\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\BS\loto.pk\update\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\BS\loto.pk\update\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\BS\loto.pk\update\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\BS\loto.pk\update\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\BS\loto.pk\update\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Noman\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Noman\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Noman\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Noman\loto-updated\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Noman\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Noman\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\NomanKhan\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\NomanKhan\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\NomanKhan\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\NomanKhan\loto-updated\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\NomanKhan\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\NomanKhan\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\temp\noman\VeeCash\VeeCash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\Noman\VeeCash\data\veecash\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\Noman\VeeCash\data\veecash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\Noman\VeeCash\data\veecash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\Noman\VeeCash\data\veecash\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\Noman\VeeCash\data\veecash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paaniwala\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Softwares\Data\WorkLive\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\obj\Debug\CommonFunctions.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paniwalay\CommonFunctions\obj\Debug\WebTech.Common.pdb

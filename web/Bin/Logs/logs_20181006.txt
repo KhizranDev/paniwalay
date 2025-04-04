@@ -1,0 +1,10 @@
+06-Oct-18 9:35:49 AM	General	Authentication.cs		Login(administrator)	Cannot open database "db_paniwala" requested by the login. The login failed.
+Login failed for user 'sa'.
+06-Oct-18 9:36:49 AM	General	Authentication.cs		Login(administrator)	Cannot open database "db_paniwala" requested by the login. The login failed.
+Login failed for user 'sa'.
+06-Oct-18 9:37:49 AM	General	Authentication.cs		Login(administrator)	Cannot open database "db_paniwala" requested by the login. The login failed.
+Login failed for user 'sa'.
+06-Oct-18 9:38:39 AM	General	Authentication.cs		Login(admin)	Cannot open database "db_paniwala" requested by the login. The login failed.
+Login failed for user 'sa'.
+06-Oct-18 9:39:19 AM	General	Authentication.cs		Login(administrator)	Cannot open database "db_paniwala" requested by the login. The login failed.
+Login failed for user 'sa'.

@@ -1,0 +1,1084 @@
+D:\Software House\Web Projects\MDC\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\MDC\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\MDC\BLL\bin\Debug\BailsSoft.Common.dll
+D:\Software House\Web Projects\MDC\BLL\bin\Debug\BailsSoft.Common.pdb
+D:\Software House\Web Projects\MDC\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\MDC\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\MDC\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\MDC\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\MDC\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\MDC\BLL\bin\Debug\BailsSoft.Common.dll
+E:\Study Data\Projects\MDC\BLL\bin\Debug\BailsSoft.Common.pdb
+E:\Study Data\Projects\MDC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\MDC\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\MDC\BLL\obj\Debug\BLL.pdb
+E:\Final Project\MDC\BLL\bin\Debug\BLL.dll
+E:\Final Project\MDC\BLL\bin\Debug\BLL.pdb
+E:\Final Project\MDC\BLL\bin\Debug\BailsSoft.Common.dll
+E:\Final Project\MDC\BLL\bin\Debug\BailsSoft.Common.pdb
+E:\Final Project\MDC\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Final Project\MDC\BLL\obj\Debug\BLL.dll
+E:\Final Project\MDC\BLL\obj\Debug\BLL.pdb
+D:\Work\Web\Asp\MDC\BLL\bin\Debug\BLL.dll
+D:\Work\Web\Asp\MDC\BLL\bin\Debug\BLL.pdb
+D:\Work\Web\Asp\MDC\BLL\bin\Debug\BailsSoft.Common.dll
+D:\Work\Web\Asp\MDC\BLL\bin\Debug\BailsSoft.Common.pdb
+D:\Work\Web\Asp\MDC\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\MDC\BLL\obj\Debug\BLL.dll
+D:\Work\Web\Asp\MDC\BLL\obj\Debug\BLL.pdb
+D:\Software House\Web Projects\MDC\MDC\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\MDC\MDC\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\MDC\MDC\BLL\bin\Debug\BailsSoft.Common.dll
+D:\Software House\Web Projects\MDC\MDC\BLL\bin\Debug\BailsSoft.Common.pdb
+D:\Software House\Web Projects\MDC\MDC\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\MDC\MDC\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\MDC\MDC\BLL\obj\Debug\BLL.pdb
+D:\Work\Website\oShop\BLL\bin\Debug\BLL.dll
+D:\Work\Website\oShop\BLL\bin\Debug\BLL.pdb
+D:\Work\Website\oShop\BLL\bin\Debug\WebTech.Common.dll
+D:\Work\Website\oShop\BLL\bin\Debug\WebTech.Common.pdb
+D:\Work\Website\oShop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Work\Website\oShop\BLL\obj\Debug\BLL.dll
+D:\Work\Website\oShop\BLL\obj\Debug\BLL.pdb
+E:\Working Folder\Web Project\oShopWeb\BLL\bin\Debug\BLL.dll
+E:\Working Folder\Web Project\oShopWeb\BLL\bin\Debug\BLL.pdb
+E:\Working Folder\Web Project\oShopWeb\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Working Folder\Web Project\oShopWeb\BLL\bin\Debug\WebTech.Common.dll
+E:\Working Folder\Web Project\oShopWeb\BLL\bin\Debug\WebTech.Common.pdb
+E:\Working Folder\Web Project\oShopWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Working Folder\Web Project\oShopWeb\BLL\obj\Debug\BLL.dll
+E:\Working Folder\Web Project\oShopWeb\BLL\obj\Debug\BLL.pdb
+D:\Software House\Web Projects\OShope\tag\Web\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\OShope\tag\Web\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\OShope\tag\Web\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Software House\Web Projects\OShope\tag\Web\BLL\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\OShope\tag\Web\BLL\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\OShope\tag\Web\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\OShope\tag\Web\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\OShope\tag\Web\BLL\obj\Debug\BLL.pdb
+D:\Work\Web\Asp\oShop\Web\BLL\bin\Debug\BLL.dll
+D:\Work\Web\Asp\oShop\Web\BLL\bin\Debug\BLL.pdb
+D:\Work\Web\Asp\oShop\Web\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Web\Asp\oShop\Web\BLL\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\oShop\Web\BLL\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\oShop\Web\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\oShop\Web\BLL\obj\Debug\BLL.dll
+D:\Work\Web\Asp\oShop\Web\BLL\obj\Debug\BLL.pdb
+D:\Work\Web\Asp\urmkt\Web\BLL\bin\Debug\BLL.dll
+D:\Work\Web\Asp\urmkt\Web\BLL\bin\Debug\BLL.pdb
+D:\Work\Web\Asp\urmkt\Web\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Web\Asp\urmkt\Web\BLL\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\urmkt\Web\BLL\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\urmkt\Web\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Web\Asp\urmkt\Web\BLL\obj\Debug\BLL.dll
+D:\Work\Web\Asp\urmkt\Web\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_khawar\URMKT\Web\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\final_urmkt\Final_urmkt\urmkt_my\URMKT\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt_my_final\URMKT\BLL\obj\Debug\BLL.pdb
+D:\Software House\Web Projects\Urmkt\Web\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\Urmkt\Web\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\Urmkt\Web\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Software House\Web Projects\Urmkt\Web\BLL\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\Web\BLL\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\Web\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Urmkt\Web\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\Urmkt\Web\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\URMKT\BLL\obj\Debug\BLL.pdb
+D:\Software House\Web Projects\Urmkt\tag\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\Urmkt\tag\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\Urmkt\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Software House\Web Projects\Urmkt\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Urmkt\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Urmkt\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Urmkt\tag\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\Urmkt\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\tag\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\urmkt\URMKT_UPDATE\URMKT\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\URMKT\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\source_1\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\urmkt\Update URMKT\Khawar\URMKT\BLL\obj\Debug\BLL.pdb
+D:\Work\Web\Asp\jules\BLL\bin\Debug\BLL.dll
+D:\Work\Web\Asp\jules\BLL\bin\Debug\BLL.pdb
+D:\Work\Web\Asp\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Web\Asp\jules\BLL\bin\Debug\WebTech.Common.dll
+D:\Work\Web\Asp\jules\BLL\bin\Debug\WebTech.Common.pdb
+D:\Work\Web\Asp\jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Work\Web\Asp\jules\BLL\obj\Debug\BLL.dll
+D:\Work\Web\Asp\jules\BLL\obj\Debug\BLL.pdb
+C:\Users\VZ03\Desktop\Jules\jules\BLL\bin\Debug\BLL.dll
+C:\Users\VZ03\Desktop\Jules\jules\BLL\bin\Debug\BLL.pdb
+C:\Users\VZ03\Desktop\Jules\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VZ03\Desktop\Jules\jules\BLL\bin\Debug\WebTech.Common.dll
+C:\Users\VZ03\Desktop\Jules\jules\BLL\bin\Debug\WebTech.Common.pdb
+C:\Users\VZ03\Desktop\Jules\jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VZ03\Desktop\Jules\jules\BLL\obj\Debug\BLL.dll
+C:\Users\VZ03\Desktop\Jules\jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150812\jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150818\jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20150818\jules\BLL\obj\Debug\BLL.pdb
+F:\Temp\Jules\BLL\bin\Debug\BLL.dll
+F:\Temp\Jules\BLL\bin\Debug\BLL.pdb
+F:\Temp\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Temp\Jules\BLL\bin\Debug\WebTech.Common.dll
+F:\Temp\Jules\BLL\bin\Debug\WebTech.Common.pdb
+F:\Temp\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Temp\Jules\BLL\obj\Debug\BLL.dll
+F:\Temp\Jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150828\Jules\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\julebackup\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES\jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\BACKUP JULES 2\jules\BLL\obj\Debug\BLL.pdb
+D:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\BLL.dll
+D:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\BLL.pdb
+D:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\BLL.dll
+D:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\BLL.pdb
+D:\working folder\Jules\tag\BLL\bin\Debug\BLL.dll
+D:\working folder\Jules\tag\BLL\bin\Debug\BLL.pdb
+D:\working folder\Jules\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\working folder\Jules\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\working folder\Jules\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\working folder\Jules\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\working folder\Jules\tag\BLL\obj\Debug\BLL.dll
+D:\working folder\Jules\tag\BLL\obj\Debug\BLL.pdb
+D:\20150912\BACKUP JULES 3\Jules\BLL\bin\Debug\BLL.dll
+D:\20150912\BACKUP JULES 3\Jules\BLL\bin\Debug\BLL.pdb
+D:\20150912\BACKUP JULES 3\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\20150912\BACKUP JULES 3\Jules\BLL\bin\Debug\WebTech.Common.dll
+D:\20150912\BACKUP JULES 3\Jules\BLL\bin\Debug\WebTech.Common.pdb
+D:\20150912\BACKUP JULES 3\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\20150912\BACKUP JULES 3\Jules\BLL\obj\Debug\BLL.dll
+D:\20150912\BACKUP JULES 3\Jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20150918\Jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151005\Jules\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20151007\Jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151008\Jules\BLL\obj\Debug\BLL.pdb
+C:\Users\BS03\Desktop\20151031\Jules\BLL\bin\Debug\BLL.dll
+C:\Users\BS03\Desktop\20151031\Jules\BLL\bin\Debug\BLL.pdb
+C:\Users\BS03\Desktop\20151031\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BS03\Desktop\20151031\Jules\BLL\bin\Debug\WebTech.Common.dll
+C:\Users\BS03\Desktop\20151031\Jules\BLL\bin\Debug\WebTech.Common.pdb
+C:\Users\BS03\Desktop\20151031\Jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BS03\Desktop\20151031\Jules\BLL\obj\Debug\BLL.dll
+C:\Users\BS03\Desktop\20151031\Jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20151031-1\Jules\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\Jules\BLL\obj\Debug\BLL.pdb
+D:\Working Folder\20151114\Jules\BLL\bin\Debug\BLL.dll
+D:\Working Folder\20151114\Jules\BLL\bin\Debug\BLL.pdb
+D:\Working Folder\20151114\Jules\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Working Folder\20151114\Jules\BLL\bin\Debug\WebTech.Common.dll
+D:\Working Folder\20151114\Jules\BLL\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\20151114\Jules\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Working Folder\20151114\Jules\BLL\obj\Debug\BLL.dll
+D:\Working Folder\20151114\Jules\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160130\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160130\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160130\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160130\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160130\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160130\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160130\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160130\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160130\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160131\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160131\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160131\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160131\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160131\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160131\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160131\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160131\tag\BLL\obj\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\bin\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\bin\Debug\BLL.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\obj\Debug\BLL.dll
+E:\Study Data\Projects\Study Projects\Jules\Updates\20160131_Office\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160201\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160202\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160203\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Updates\20160204\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160207\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160207\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160207\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160207\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160207\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160207\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160207\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160207\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160213\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160216\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160218\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160226\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160226\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160226\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160226\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160226\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160226\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160226\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160226\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160227\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160227\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160227\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160227\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160227\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160227\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160227\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160227\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160305\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160305\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160305\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160305\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160305\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160305\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160305\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160305\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160305\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160319\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160319\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160319\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160319\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160319\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160319\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160319\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160319\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160326\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160402\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\jules\Temp\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\jules\Temp\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\jules\Temp\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\jules\Temp\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\jules\Temp\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\Temp\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\jules\Temp\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\jules\Temp\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160416\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160421\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160512\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160520\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\jules\20160528\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\jules\20160528\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\jules\20160528\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\jules\20160528\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\jules\20160528\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\jules\20160528\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\jules\20160528\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\jules\20160528\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160528-Office\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\Jules\Source\20160610\tag\BLL\obj\Debug\BLL.pdb
+E:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\BLL.dll
+E:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\BLL.pdb
+E:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Jules\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\BLL.dll
+E:\Software House\Web Projects\Jules\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\Jules\20160730\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\Jules\20160730\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\Jules\20160730\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\Jules\20160730\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\Jules\20160730\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\Jules\20160730\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\Jules\20160730\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\Jules\20160730\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\R&M\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\R&M\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\R&M\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\R&M\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\R&M\tag\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20160910\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\R&M\20160923\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\R&M\20160923\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\R&M\20160923\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\R&M\20160923\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\20160923\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\20160923\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\20160923\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\R&M\20160923\tag\BLL\obj\Debug\BLL.pdb
+E:\Software House\Web Projects\R&M\tag\BLL\bin\Debug\BLL.dll
+E:\Software House\Web Projects\R&M\tag\BLL\bin\Debug\BLL.pdb
+E:\Software House\Web Projects\R&M\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Software House\Web Projects\R&M\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Software House\Web Projects\R&M\tag\BLL\obj\Debug\BLL.dll
+E:\Software House\Web Projects\R&M\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\R&M\Source\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\R&M\Source\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\R&M\Source\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161116\tag\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161116\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\20161116\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\R&M\Source\20161116\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\20161116\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\R&M\Source\20161116\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161116\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161116\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\20161116\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\R&M\Source\20161116\tag\BLL\obj\Debug\BLL.pdb
+E:\Noman\tag\BLL\bin\Debug\BLL.dll
+E:\Noman\tag\BLL\bin\Debug\BLL.pdb
+E:\Noman\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Noman\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Noman\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Noman\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Noman\tag\BLL\obj\Debug\BLL.dll
+E:\Noman\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161119\tag\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161119\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\20161125\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\R&M\Source\20161125\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\R&M\Source\20161125\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\R&M\Source\20161125\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\R&M\Source\20161125\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\R&M\Source\20161125\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\R&M\Source\20161125\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\R&M\Source\20161125\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161126\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161126\tag\BLL\obj\Debug\BLL.pdb
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\BLL.dll
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\BLL.pdb
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\obj\Debug\BLL.dll
+E:\Software House\Web Projects\R&M\20161209\tag\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\R&M\Source\20161209\tag\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\RM\20161209\tag\BLL\obj\Debug\BLL.pdb
+D:\Web Projects\tag\BLL\bin\Debug\BLL.dll
+D:\Web Projects\tag\BLL\bin\Debug\BLL.pdb
+D:\Web Projects\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Web Projects\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Web Projects\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Web Projects\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Web Projects\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects\tag\BLL\obj\Debug\BLL.dll
+D:\Web Projects\tag\BLL\obj\Debug\BLL.pdb
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\BLL.dll
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\BLL.pdb
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\RM\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\RM\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\RM\tag\BLL\obj\Debug\BLL.dll
+D:\Working Folder\Web Project\RM\tag\BLL\obj\Debug\BLL.pdb
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\BLL.dll
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\BLL.pdb
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\BS\loto.pk\update\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\BS\loto.pk\update\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\BS\loto.pk\update\tag\BLL\obj\Debug\BLL.dll
+D:\BS\loto.pk\update\tag\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Loto.pk\tag\BLL\obj\Debug\BLL.pdb
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\BLL.dll
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\BLL.pdb
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\WebTech.Common.dll
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Software House\Web Projects\Loto.pk\tag\BLL\bin\Debug\WebTech.Common.pdb
+E:\Software House\Web Projects\Loto.pk\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Software House\Web Projects\Loto.pk\tag\BLL\obj\Debug\BLL.dll
+E:\Software House\Web Projects\Loto.pk\tag\BLL\obj\Debug\BLL.pdb
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\BLL.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\BLL.pdb
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\obj\Debug\BLL.dll
+D:\Working Folder\Web Project\loto.pk\loto.pk\tag\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\loto.pk\loto.pk\tag\BLL\obj\Debug\BLL.pdb
+D:\BS\loto update\tag\BLL\bin\Debug\BLL.dll
+D:\BS\loto update\tag\BLL\bin\Debug\BLL.pdb
+D:\BS\loto update\tag\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BS\loto update\tag\BLL\bin\Debug\WebTech.Common.dll
+D:\BS\loto update\tag\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\BS\loto update\tag\BLL\bin\Debug\WebTech.Common.pdb
+D:\BS\loto update\tag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\BS\loto update\tag\BLL\obj\Debug\BLL.dll
+D:\BS\loto update\tag\BLL\obj\Debug\BLL.pdb
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.dll
+D:\Working Folder\Web Project\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.dll
+D:\Working Folder\Noman\loto.pk\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(27-Apr-2017)\loto-updated-zain\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Matin(25-May-2017)\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\BLL.dll
+E:\Projects Working\Bailssoft2\Code\loto.pk\Alnoor\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated-zain\BLL\obj\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\BLL.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\obj\Debug\BLL.dll
+D:\Alnoor\Working-Folder\Loto-Whole-Data\Noman-Mateen(13-June-2017)\loto-updated\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\loto.pk\loto-updated\BLL\obj\Debug\BLL.pdb
+D:\Noman\loto-updated\BLL\bin\Debug\BLL.dll
+D:\Noman\loto-updated\BLL\bin\Debug\BLL.pdb
+D:\Noman\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Noman\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+D:\Noman\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Noman\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+D:\Noman\loto-updated\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Noman\loto-updated\BLL\obj\Debug\BLL.dll
+D:\Noman\loto-updated\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\loto.pk\Source\loto-updated\BLL\obj\Debug\BLL.pdb
+D:\NomanKhan\loto-updated\BLL\bin\Debug\BLL.dll
+D:\NomanKhan\loto-updated\BLL\bin\Debug\BLL.pdb
+D:\NomanKhan\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\NomanKhan\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+D:\NomanKhan\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\NomanKhan\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+D:\NomanKhan\loto-updated\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\NomanKhan\loto-updated\BLL\obj\Debug\BLL.dll
+D:\NomanKhan\loto-updated\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\loto-updated\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\vee\VeeCash\BLL\obj\Debug\BLL.pdb
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\BLL.dll
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\BLL.pdb
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\WebTech.Common.dll
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\temp\noman\VeeCash\VeeCash\BLL\bin\Debug\WebTech.Common.pdb
+E:\temp\noman\VeeCash\VeeCash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\temp\noman\VeeCash\VeeCash\BLL\obj\Debug\BLL.dll
+E:\temp\noman\VeeCash\VeeCash\BLL\obj\Debug\BLL.pdb
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\BLL.dll
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\BLL.pdb
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\WebTech.Common.dll
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\Noman\VeeCash\data\veecash\BLL\bin\Debug\WebTech.Common.pdb
+E:\Noman\VeeCash\data\veecash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Noman\VeeCash\data\veecash\BLL\obj\Debug\BLL.dll
+E:\Noman\VeeCash\data\veecash\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\VeeCash\veecash\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\VeeCash\veecash\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Media Track\media_monitoring\BLL\obj\Debug\BLL.pdb
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\BLL.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\BLL.pdb
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.pdb
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.dll
+D:\Noman\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paaniwala\BLL\obj\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\BLL.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\HtmlAgilityPack.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.pdb
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\obj\Debug\BLL.dll
+E:\ABDUL QADIR\AndroidProjectsAQ\Study\Paaniwala\paaniwala\BLL\obj\Debug\BLL.pdb
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\BLL.dll
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\BLL.pdb
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.dll
+D:\Softwares\Data\Paaniwala\paaniwala\BLL\obj\Debug\BLL.pdb
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\BLL.dll
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\BLL.pdb
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\WorkLive\paniwalay\BLL\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\WorkLive\paniwalay\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\WorkLive\paniwalay\BLL\obj\Debug\BLL.dll
+D:\Softwares\Data\WorkLive\paniwalay\BLL\obj\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\BLL.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\WebTech.Common.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\HtmlAgilityPack.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\bin\Debug\WebTech.Common.pdb
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\obj\Debug\BLL.dll
+F:\Projects Working\Bailssoft2\Code\Paaniwala\paniwalay\BLL\obj\Debug\BLL.pdb
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\BLL.dll
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\BLL.pdb
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\WebTech.Common.dll
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\HtmlAgilityPack.dll
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\bin\Debug\WebTech.Common.pdb
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\obj\Debug\BLL.dll
+D:\Softwares\Data\Paaniwala\paniwalay\BLL\obj\Debug\BLL.pdb

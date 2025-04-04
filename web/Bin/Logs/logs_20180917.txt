@@ -1,0 +1,10 @@
+9/17/2018 5:53:33 AM	SQL	DBLayer		FetchTable1(SELECT ID, Description FROM Locations WHERE ISNULL(IsActive,0) = 1)	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 12:19:43 PM	SQL	DBLayer		FetchFromSP2(WB_CreateRates,ParameterName: @RateId, ParameterValue: 0;ParameterName: @LocationId, ParameterValue: 1;ParameterName: @StartDate, ParameterValue: 01-10-2018;ParameterName: @EndDate, ParameterValue: 05-10-2018;ParameterName: @Rate, ParameterValue: 100;)	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 12:20:01 PM	General	Rates.cs		SaveRates()	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 12:21:55 PM	SQL	DBLayer		FetchFromSP2(WB_CreateRates,ParameterName: @RateId, ParameterValue: 0;ParameterName: @LocationId, ParameterValue: 1;ParameterName: @StartDate, ParameterValue: 25-10-2018;ParameterName: @EndDate, ParameterValue: 30-10-2018;ParameterName: @Rates, ParameterValue: 100;)	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 12:22:04 PM	General	Rates.cs		SaveRates()	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 1:44:03 PM	SQL	DBLayer		FetchFromSP2(WB_CreateRates,ParameterName: @RateId, ParameterValue: 0;ParameterName: @LocationId, ParameterValue: 1;ParameterName: @StartDate, ParameterValue: 17-09-2018;ParameterName: @EndDate, ParameterValue: 18-09-2018;ParameterName: @Rates, ParameterValue: 100;ParameterName: @LoginId, ParameterValue: 1;)	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 1:44:23 PM	General	Rates.cs		SaveRates()	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 1:45:15 PM	SQL	DBLayer		FetchFromSP2(WB_CreateRates,ParameterName: @RateId, ParameterValue: 0;ParameterName: @LocationId, ParameterValue: 1;ParameterName: @StartDate, ParameterValue: 17-09-2018;ParameterName: @EndDate, ParameterValue: 18-09-2018;ParameterName: @Rates, ParameterValue: 100;ParameterName: @LoginId, ParameterValue: 1;)	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 1:45:26 PM	General	Rates.cs		SaveRates()	Could not find stored procedure 'WB_WriteError'.
+9/17/2018 1:51:11 PM	General	Rates.cs		SaveRates()	Could not find stored procedure 'WB_WriteError'.

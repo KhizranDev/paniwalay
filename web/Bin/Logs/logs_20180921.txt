@@ -1,0 +1,4 @@
+9/20/2018 8:41:20 PM	General	Order.cs		GetOrders()	Cannot insert the value NULL into column 'LogId', table 'db_paniwala.dbo.Logs'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+9/20/2018 8:50:25 PM	General	Order.cs		GetOrders()	Cannot insert the value NULL into column 'LogId', table 'db_paniwala.dbo.Logs'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
